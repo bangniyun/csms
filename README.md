@@ -29,24 +29,24 @@
 
 #### 部分产品截图
  **演示数据均为虚拟** 
-![输入图片说明](%E6%90%9C%E7%B4%A2.gif)
+![案件](https://github.com/user-attachments/assets/ed7b6e87-b030-4563-99f1-13ba724a0980)
+
  **演示数据均为虚拟** 
-![输入图片说明](%E5%88%86%E6%A1%881.gif)
+![作业](https://github.com/user-attachments/assets/a5e63c1d-2778-4f6f-8f08-dd8e1df3bc0b)
+
  **演示数据均为虚拟** 
-![输入图片说明](%E5%88%86%E6%A1%882.gif)
+![回款](https://github.com/user-attachments/assets/581c54d0-e53a-49a8-ba20-f82710f28d62)
+
  **演示数据均为虚拟** 
-![输入图片说明](%E4%BD%9C%E4%B8%9A1.gif)
+![导案](https://github.com/user-attachments/assets/4edb25ed-3ecd-495a-9498-53c32f90f3dd)
+
  **演示数据均为虚拟** 
-![输入图片说明](%E4%BD%9C%E4%B8%9A2.gif)
- **演示数据均为虚拟** 
-![输入图片说明](%E5%9B%9E%E6%AC%BE.gif)
- **演示数据均为虚拟** 
-![输入图片说明](%E5%AF%BC%E6%A1%88.gif)
- **演示数据均为虚拟** 
-![输入图片说明](%E8%AE%BE%E7%BD%AE.gif)
+![设置](https://github.com/user-attachments/assets/a6f879c0-860d-4919-b9c0-f2c583833b61)
+
 
 #### 联系及演示
-![扫一扫添加微信](weixin.jpg)
+![weixin](https://github.com/user-attachments/assets/c38058e5-b06f-4d55-94c5-785481d342aa)
+
 
 #### 版权信息
 - 版权所有 Copyright © 2015-2025 帮你云贷后智能催收管理系统
